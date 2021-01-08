@@ -85,5 +85,5 @@ while(True):
     would you please help me with this? what i need is the clue on how i can get started. I would appreciate
     for that.
 
-    Thank you in advance!
+    Thank you in advance
 '''
