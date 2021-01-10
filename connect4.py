@@ -2,15 +2,6 @@
     Connect 4 game
 '''
 
-'''
-    Hi there, I'm working on the connect 4 game. I think i have done a lot ,but they are not enough 
-    to make the game done. They only question that i'm having is to figure out how a player can win. 
-    would you please help me with this? what i need is the clue on how i can get started. I would appreciate
-    for that.
-
-    Thank you in advance!
-'''
-
 # This is how game will look like
 
 # | | | | | | | | 0
@@ -78,12 +69,3 @@ while(True):
             playerTurn = 1
 
     drawField(currentField)
-
-'''
-    Hi there, I'm working on the connect 4 game. I think i have done a lot ,but they are not enough 
-    to make the game done. They only question that i'm having is to figure out how a player can win. 
-    would you please help me with this? what i need is the clue on how i can get started. I would appreciate
-    for that.
-
-    Thank you in advance
-'''
